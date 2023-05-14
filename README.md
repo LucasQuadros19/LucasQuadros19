@@ -1,11 +1,10 @@
+<div style="display :inline_block" align="center">  
 
 ## Lucas Eduardo Alves de Quadros 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasQuadros19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias
 #
-
-<div style="display :inline_block">   
 <img aling="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -14,14 +13,14 @@
 <img aling="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img aling="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
 
-</div>
+
 
 #
 
 
 <img width="564" alt="image" src="https://github.com/LucasQuadros19/LucasQuadros19/assets/103599939/31337898-7823-4bf7-b0ef-6f4cdfb34ddf">
 
-
+</div>
 
 
 
