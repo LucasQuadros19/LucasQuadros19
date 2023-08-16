@@ -3,7 +3,7 @@
 ## Lucas Eduardo Alves de Quadros 
      
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasQuadros19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   
+    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasQuadros19&layout=compact&langs_count=7&theme=synthwave"/> 
   
   
