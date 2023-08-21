@@ -1,6 +1,6 @@
 <div style="display :inline_block" align="center">  
  
-## Lucas Eduardo Alves de Quadros     
+## Lucas Eduardo Alves de Quadros      
       
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasQuadros19&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     
