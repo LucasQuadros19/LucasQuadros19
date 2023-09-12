@@ -23,7 +23,6 @@
 #
 
 
-<img width="564" alt="image" src="https://github.com/LucasQuadros19/LucasQuadros19/assets/103599939/31337898-7823-4bf7-b0ef-6f4cdfb34ddf">
 
 </div>
 
