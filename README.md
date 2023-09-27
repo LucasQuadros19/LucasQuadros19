@@ -1,4 +1,4 @@
-<div style="display :inline_block" align="center">  
+ <div style="display :inline_block" align="center">  
  
 ## Lucas Eduardo Alves de Quadros    
           
