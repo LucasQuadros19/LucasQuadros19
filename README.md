@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasQuadros19&layout=compact&langs_count=7&theme=synthwave"/>  
          
          
-### Tecnologias            
+### Tecnologias             
 #    
 <img aling="center" alt="java" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
 <img aling="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
